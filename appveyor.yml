@@ -27,4 +27,4 @@ build_script:
 deploy:
   - provider: Webhook
     url: https://app.signpath.io/API/v1/%SIGNPATH_ORGANIZATION_ID%/Integrations/AppVeyor?ProjectSlug=%SIGNPATH_PROJECT_SLUG%&SigningPolicySlug=%SIGNPATH_SIGNING_POLICY_SLUG%&ArtifactConfigurationSlug=%ARTIFACT_CONFIGURATION_SLUG%
-    authorization: 'Bearer %SIGNPATH_CI_USER_TOKEN%'
+    authorization: "Bearer %SIGNPATH_CI_USER_TOKEN%"
