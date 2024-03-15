@@ -4,6 +4,7 @@ require (
 	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/Microsoft/go-winio v0.4.14
 	github.com/antchfx/htmlquery v1.2.5
+	github.com/bits-and-blooms/bitset v1.13.0
 	github.com/briandowns/spinner v1.12.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/enescakir/emoji v1.0.0
@@ -32,19 +33,18 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/yuin/goldmark v1.5.2
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
+	golang.org/x/arch v0.6.0
 	golang.org/x/sys v0.13.0
 	golang.org/x/text v0.13.0
-	golang.org/x/time v0.3.0
+	golang.org/x/time v0.5.0
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
-	github.com/bits-and-blooms/bitset v1.13.0 // indirect
 	github.com/rivo/uniseg v0.4.2 // indirect
 	github.com/rogpeppe/go-internal v1.11.0 // indirect
-	golang.org/x/arch v0.6.0 // indirect
 )
 
 require (
