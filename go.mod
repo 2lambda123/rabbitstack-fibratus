@@ -3,13 +3,13 @@ module github.com/rabbitstack/fibratus
 require (
 	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/Microsoft/go-winio v0.4.14
-	github.com/antchfx/htmlquery v1.2.5
+	github.com/antchfx/htmlquery v1.3.0
 	github.com/bits-and-blooms/bitset v1.13.0
 	github.com/briandowns/spinner v1.12.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/enescakir/emoji v1.0.0
 	github.com/gammazero/deque v0.2.1
-	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e
+	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
 	github.com/hashicorp/go-version v1.2.1
 	github.com/hillu/go-yara/v4 v4.3.2
 	github.com/jedib0t/go-pretty/v6 v6.2.1
@@ -50,7 +50,7 @@ require (
 require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver/v3 v3.1.1 // indirect
-	github.com/antchfx/xpath v1.2.1 // indirect
+	github.com/antchfx/xpath v1.2.3 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/edsrzf/mmap-go v1.1.0 // indirect
 	github.com/fatih/color v1.7.0 // indirect
