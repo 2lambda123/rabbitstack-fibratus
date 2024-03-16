@@ -60,7 +60,7 @@ def on_init():
 @dotdictify
 def on_next_kevent(kevent):
     emit_alert(
-        f'Remote File Copy via TeamViewer',
+        'Remote File Copy via TeamViewer',
         f'TeamViewer downloaded an executable or script file {kevent.kparams.file_name} via transfer session',
         severity=__severity__,
         tags=[__tags__]
