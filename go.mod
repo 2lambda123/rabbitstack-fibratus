@@ -34,7 +34,7 @@ require (
 	github.com/yuin/goldmark v1.5.2
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
 	golang.org/x/arch v0.6.0
-	golang.org/x/sys v0.13.0
+	golang.org/x/sys v0.18.0
 	golang.org/x/text v0.13.0
 	golang.org/x/time v0.5.0
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
