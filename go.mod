@@ -15,7 +15,7 @@ require (
 	github.com/jedib0t/go-pretty/v6 v6.2.1
 	github.com/lithammer/fuzzysearch v1.1.2
 	github.com/magiconair/properties v1.8.1
-	github.com/mitchellh/mapstructure v1.4.1
+	github.com/mitchellh/mapstructure v1.5.0
 	github.com/olivere/elastic/v7 v7.0.20
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
 	github.com/pkg/errors v0.9.1
