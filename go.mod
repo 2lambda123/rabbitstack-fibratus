@@ -31,7 +31,7 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/valyala/gozstd v1.11.0
 	github.com/xeipuuv/gojsonschema v1.2.0
-	github.com/yuin/goldmark v1.5.2
+	github.com/yuin/goldmark v1.7.0
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
 	golang.org/x/arch v0.7.0
 	golang.org/x/sys v0.18.0
