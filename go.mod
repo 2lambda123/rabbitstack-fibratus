@@ -12,7 +12,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
 	github.com/hashicorp/go-version v1.2.1
 	github.com/hillu/go-yara/v4 v4.3.2
-	github.com/jedib0t/go-pretty/v6 v6.2.1
+	github.com/jedib0t/go-pretty/v6 v6.5.5
 	github.com/lithammer/fuzzysearch v1.1.2
 	github.com/magiconair/properties v1.8.1
 	github.com/mitchellh/mapstructure v1.5.0
@@ -27,7 +27,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.6.2
 	github.com/streadway/amqp v1.0.0
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.4
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/valyala/gozstd v1.11.0
 	github.com/xeipuuv/gojsonschema v1.2.0
@@ -65,7 +65,7 @@ require (
 	github.com/mailru/easyjson v0.7.6 // indirect
 	github.com/mattn/go-colorable v0.1.2 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
-	github.com/mattn/go-runewidth v0.0.14 // indirect
+	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.0 // indirect
 	github.com/pelletier/go-toml v1.2.0 // indirect
