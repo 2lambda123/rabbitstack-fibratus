@@ -6,7 +6,7 @@ require (
 	github.com/antchfx/htmlquery v1.3.0
 	github.com/bits-and-blooms/bitset v1.13.0
 	github.com/briandowns/spinner v1.12.0
-	github.com/dustin/go-humanize v1.0.0
+	github.com/dustin/go-humanize v1.0.1
 	github.com/enescakir/emoji v1.0.0
 	github.com/gammazero/deque v0.2.1
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
