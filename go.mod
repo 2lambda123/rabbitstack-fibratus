@@ -29,7 +29,7 @@ require (
 	github.com/streadway/amqp v1.1.0
 	github.com/stretchr/testify v1.8.4
 	github.com/valyala/bytebufferpool v1.0.0
-	github.com/valyala/gozstd v1.11.0
+	github.com/valyala/gozstd v1.20.1
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/yuin/goldmark v1.7.0
 	go.mozilla.org/pkcs7 v0.0.0-20210826202110-33d05740a352
