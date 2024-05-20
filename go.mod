@@ -19,7 +19,7 @@ require (
 	github.com/olivere/elastic/v7 v7.0.20
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
 	github.com/pkg/errors v0.9.1
-	github.com/qmuntal/stateless v1.6.0
+	github.com/qmuntal/stateless v1.7.0
 	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
 	github.com/saferwall/pe v1.4.4
 	github.com/sirupsen/logrus v1.9.3
